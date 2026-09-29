@@ -16,7 +16,7 @@ It covers 17 controls: lawful basis, notice, consent, consent ledger, withdrawal
 
 ## Install
 
-**Claude.ai / Claude app:** download `dist/dpdp-claude-dev-skill.skill` and upload it under Skills in Claude's settings.
+**Claude.ai / Claude app:** download `dist/dpdp-dev-skill-by-uvera.skill` and upload it under Skills in Claude's settings.
 
 **Claude Code:** copy the skill folder into your personal or project skills directory:
 
@@ -42,7 +42,7 @@ The skill triggers automatically when you work on personal data, consent, deleti
 
 ```
 skills/dpdp-claude-dev-skill/SKILL.md   the skill
-dist/dpdp-claude-dev-skill.skill        packaged for upload
+dist/dpdp-dev-skill-by-uvera.skill        packaged for upload
 docs/sources.md                         official texts used
 examples/prompts.md                     prompts to try
 ```
