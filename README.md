@@ -1,6 +1,6 @@
-# Kavach 🛡️ — DPDP compliance skill for Claude
+# DPDP by UVERA 🛡️ — DPDP compliance skill for Claude
 
-**Kavach** (कवच, "armour") is a Claude skill that turns India's **Digital Personal Data Protection Act, 2023** and **DPDP Rules, 2025** into engineering controls you can build and verify, not just read.
+**DPDP by UVERA** is a Claude skill that turns India's **Digital Personal Data Protection Act, 2023** and **DPDP Rules, 2025** into engineering controls you can build and verify, not just read.
 
 Use it while you design, code, review, or audit any software that handles personal data of people in India.
 
@@ -49,7 +49,7 @@ examples/prompts.md                     prompts to try
 
 ## Disclaimer
 
-Kavach is an engineering aid, not legal advice. It flags interpretation calls and sector laws (RBI, SEBI, IRDAI, health, telecom) for legal review. Always check for newer MeitY notifications.
+DPDP by UVERA is an engineering aid, not legal advice. It flags interpretation calls and sector laws (RBI, SEBI, IRDAI, health, telecom) for legal review. Always check for newer MeitY notifications.
 
 ## Contributing
 
